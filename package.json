@@ -2,9 +2,9 @@
   "name": "the-foodie-zone",
   "version": "1.0.0",
   "description": "my food app",
-  "main": "App.js",
   "scripts": {
-    "test": "jest"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "keywords": [
     "hii"
